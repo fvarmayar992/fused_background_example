@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "203772116963",
+    "firebase_url": "https://rahpatest-8c8af.firebaseio.com",
+    "project_id": "rahpatest-8c8af",
+    "storage_bucket": "rahpatest-8c8af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203772116963:android:ecd126994556b08d89aad6",
+        "android_client_info": {
+          "package_name": "com.example.rahpatest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203772116963-avvbl4qskgf3mvqn2bd0radru46gggg8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzf9PlV512kdel7Sukju7oix4prGEB4uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203772116963-avvbl4qskgf3mvqn2bd0radru46gggg8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
